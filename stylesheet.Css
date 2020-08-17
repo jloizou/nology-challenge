@@ -1,0 +1,138 @@
+.backToStart{ 
+    vertical-align: top;
+}
+/* start page styling */
+
+.startPage{ 
+    background-image: url(https://images.pexels.com/photos/305821/pexels-photo-305821.jpeg?cs=srgb&dl=pexels-scott-webb-305821.jpg&fm=jpg); 
+    background-size: cover;
+}
+
+.introText{ 
+   text-align: center;
+    font-size: large; 
+    font-weight: 600; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}  
+
+.introName{ 
+     text-align: center; 
+     font-size: xx-large; 
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+} 
+
+.intro{   
+     background-color:#706967;
+     border: 2px  ; 
+     border-style: inset; 
+     width: 700px; 
+     margin: auto;  
+     border-radius: 30px;     
+}
+
+nav{  
+    background-color:#285a35;
+    border: 2px inset;  
+    padding-top: 20px;  
+    padding-bottom: 150px;
+    width: 200px;   
+    height: 200px;
+    position: relative; 
+    top: 200px;  
+    bottom: 200px;
+    vertical-align: middle; 
+    border-bottom-right-radius: 20px; 
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;    
+} 
+
+li{ 
+    list-style-type: none; 
+     color: inherit; 
+     font-size: 20px;
+    
+}  
+a{ 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    color:  #7c8a84; 
+    text-decoration: none; 
+    text-emphasis: 2000;
+  
+}
+/* background page styling */ 
+.backgroundPage{
+    background-color: #7c8a84;
+}
+
+.ethicalBeans{ 
+ max-width: 350px; 
+    max-height: 350px; 
+} 
+.historyMap{  
+    max-width: 350px; 
+    max-height: 350px;  
+   } 
+.ethicalText{ 
+    text-align: center; 
+    position: relative; 
+    color: 	#cfd1b5; 
+    font-size: large;
+} 
+.historyText{  
+    padding-top: 100px;
+    text-align: center; 
+    position: relative;
+    color: 	#cfd1b5; 
+    font-size: large;
+
+} 
+
+
+/* hobbies and interests styling */ 
+.hobbiesAndInterests{
+    background-color: #7c8a84;
+}
+
+.ukeVideo{ 
+    max-width: 350px; 
+       max-height: 350px; 
+   } 
+   .boxingGloves{  
+       max-width: 350px; 
+       max-height: 350px;  
+      } 
+   .ukeText{ 
+       text-align: center; 
+       position: relative;  
+       color: 	#cfd1b5; 
+       font-size: large;
+
+
+   } 
+   .boxingText{  
+       padding-top: 100px;
+       text-align: center; 
+       position: relative; 
+       padding-bottom: 50px;
+       color: 	#cfd1b5; 
+       font-size: large;
+
+
+   } 
+
+   /* ambitions page */ 
+   .courseAmbitions{ 
+    background-color: #7c8a84;
+   }
+   .ambitionsText{ 
+       text-align: center; 
+       padding-top: 200px; 
+       color: 	#cfd1b5; 
+       font-size: large; 
+       text-shadow: 10px;
+
+
+   } 
+
+   /*#E27D60 #85DCB #C38D9E #413A3 /*
